@@ -56,7 +56,7 @@ class App extends Component {
             <ParticlesBg type="thick" bg={true} />
             <div className="container">
               <h1 className="intro">{devIntro}</h1>
-              <div className="shell">npm i your-lib --save s3 success</div>
+              <div className="shell">npm i your-lib --save s3 success </div>
               <div className="tagline">
                 <Typist>{devDesc}</Typist>
               </div>
